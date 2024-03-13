@@ -1,1 +1,7 @@
-torch torchvision torchaudio
+pytorch
+transformers
+pandas
+streamlit
+torchvision
+torchaudio
+torch-scatter
