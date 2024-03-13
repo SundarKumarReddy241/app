@@ -1,7 +1,1 @@
-torch
-transformers
-pandas
-streamlit
-torchvision
-torchaudio
-torch-scatter
+torch torchvision torchaudio
